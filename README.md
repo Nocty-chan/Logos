@@ -8,7 +8,7 @@ Various logos created on Adobe Illustrator and GIMP.
   <img src="https://github.com/Nocty-chan/Logos/blob/master/logo-polo.png" width="20%">
 </p>
 
-* Logo for the Nuit du Badminton 2017 event at Ecole polytechnique. Adobe Illustrator.
+* Logo for the 2017 Nuit du Bad event at Ecole polytechnique. Adobe Illustrator.
 <p align=center>
   <img src="https://raw.githubusercontent.com/Nocty-chan/Logos/master/NuitDuBadBigFinal.png?token=ADD3TTSW3XFF375KMA57LUS5UN5XU" width="20%">
 </p>
